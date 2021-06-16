@@ -1,2 +1,2 @@
 # python
-Python in Azure, AWS and more
+Python for Azure, AWS and more
